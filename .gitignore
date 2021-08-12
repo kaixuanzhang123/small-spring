@@ -23,6 +23,7 @@
 hs_err_pid*
 
 *.md
+
 /.idea/
 /small-spring-step-01/small-spring-step-01.iml
 /small-spring-step-02/small-spring-step-02.iml
@@ -36,6 +37,8 @@ hs_err_pid*
 /small-spring-step-10/small-spring-step-10.iml
 /small-spring-step-11/small-spring-step-11.iml
 /small-spring-step-12/small-spring-step-12.iml
-/docs/assets/ppt/插图.pptx
-/docs/assets/visio/类图.vsdx
 /small-spring-step-13/small-spring-step-13.iml
+/small-spring-step-14/small-spring-step-14.iml
+/small-spring-step-15/small-spring-step-15.iml
+/small-spring-step-16/small-spring-step-16.iml
+/small-spring-step-17/small-spring-step-17.iml
